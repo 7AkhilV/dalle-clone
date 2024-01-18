@@ -2,6 +2,8 @@
 
 A full-stack MERN application that mimics the functionality of OpenAI's DALL-E, allowing users to generate images based on textual prompts.
 
+live link: https://dalle-clone-pi.vercel.app/
+
 ## Features
 
 - **Prompt Generation:** Users can input textual prompts to generate unique and creative images.
