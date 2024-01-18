@@ -23,6 +23,11 @@ Before you begin, ensure you have met the following requirements:
 
 ### Frontend
 
+![Screenshot (146)](https://github.com/7AkhilV/dalle-clone/assets/118068004/a98ba5d2-f7fa-4cd6-a452-2b498bb91fea)
+
+![Screenshot (144)](https://github.com/7AkhilV/dalle-clone/assets/118068004/1178efb4-800f-4201-823c-56d8d8527bdf)
+
+
 1. Clone the repository:
 
    ```bash
@@ -69,5 +74,6 @@ Before you begin, ensure you have met the following requirements:
 
 1. OpenAI for providing the powerful image generation API.
 2. FileSaver.js for enabling file-saving functionality.
+
 
 
