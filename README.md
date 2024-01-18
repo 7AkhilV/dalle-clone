@@ -28,13 +28,10 @@ Before you begin, ensure you have met the following requirements:
    cd dalle-clone/client
 
 2. Install dependencies
-
-   ```bash
-   npm install
+   `npm install`
 
 3. Run the app
-   ```bash
-   npm run dev
+   `npm run dev`
 
    
 ### Backend
@@ -45,22 +42,20 @@ Before you begin, ensure you have met the following requirements:
    cd ../server
 
 2. Install dependencies
-
-   ```bash
-   npm install
+   `npm install`
 
 
 3. Configure the backend:
    Create a `.env` file with the following:
-   `MONGODB_URL=your_mongodb_uri
+   ```bash
+    MONGODB_URL=your_mongodb_uri
     OPENAI_API_KEY=your_openai_api_key
     CLOUDINARY_CLOUD_NAME = 'your_cloudinary_name'
     CLOUDINARY_API_KEY=your_cloudinary_api_key
-    CLOUDINARY_API_SECRET=your_cloudinary_api_secret`
+    CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
-4. Run the app
-   ```bash
-   npm start
+5. Run the app
+   `npm start`
 
 
 
